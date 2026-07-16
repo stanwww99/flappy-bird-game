@@ -1,8 +1,11 @@
 ## About Rules of Game
 The game starts with 3 lives.
+
 If the game is running
-  Click A to move the bird up.
+  Click A to move the bird up
+  
   Click B to move the bird down
+
   Each time the bird misses. You lose one life.  Each time the target is captured, you score one point  and a happy background plays in it. The game starts at 0.2  units per 100 ms. For every target score, The speed of target will increase by 0.05 units per 100ms
   Click on P0 to pause
   Click on P1 to buy a heart for 6 scores each.
