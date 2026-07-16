@@ -36,6 +36,7 @@ If game is not over
 
   Click A+B to end game
 
+## How to use
 
 > Open this page at [https://stanwww99.github.io/flappy-bird-game/](https://stanwww99.github.io/flappy-bird-game/)
 
