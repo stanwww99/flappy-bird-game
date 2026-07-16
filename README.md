@@ -1,3 +1,24 @@
+## About Rules of Game
+The game starts with 3 lives.
+If the game is running
+  Click A to move the bird up.
+  Click B to move the bird down
+  Each time the bird misses. You lose one life.  Each time the target is captured, you score one point  and a happy background plays in it. The game starts at 0.2  units per 100 ms. For every target score, The speed of target will increase by 0.05 units per 100ms
+  Click on P0 to pause
+  Click on P1 to buy a heart for 6 scores each.
+  Click on P2  to buy all 3 hearts for 12 scores.
+If the game is paused
+  It shows pause
+  Click on P1 to check score
+  Click on P2 to check lives.
+  Click on P0 to resume
+  A new target will span.
+When you are out of life, the game is over.               
+  It shows your score.
+  Click A + B to restart  the game             
+If game is not over      
+  Click A+B to end game
+
 
 > Open this page at [https://stanwww99.github.io/flappy-bird-game/](https://stanwww99.github.io/flappy-bird-game/)
 
